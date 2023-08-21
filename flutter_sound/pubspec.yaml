@@ -16,14 +16,17 @@ dependencies:
   provider: ^6.0.0
   path: ^1.8.0
   synchronized: ^3.0.0
-  logger: ^1.1.0
+  logger: ^2.0.1
+  flutter_sound_platform_interface:
+    path: ../flutter_sound_platform_interface
+  flutter_sound_web:
+    path: ../flutter_sound_web
+
   flutter:
     sdk: flutter
 # ============================================================================
-  flutter_sound_platform_interface: 9.2.13
-#    path: ../flutter_sound_platform_interface # Flutter Sound Dir
-  flutter_sound_web: 9.2.13
-#    path: ../flutter_sound_web # Flutter Sound Dir
+
+
 # ============================================================================
 
 dev_dependencies:
