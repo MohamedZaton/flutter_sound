@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter_sound_platform_interface",
-      "rootUri": "../../flutter_sound_platform_interface",
+      "rootUri": "file:///Users/jhjhjh/.pub-cache/git/flutter_sound-647ee0890692097ff16f8be182883a6f692ab8fc/flutter_sound_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -164,7 +164,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-08-21T23:21:04.389975Z",
+  "generated": "2023-08-22T04:55:48.430050Z",
   "generator": "pub",
   "generatorVersion": "3.0.2"
 }
